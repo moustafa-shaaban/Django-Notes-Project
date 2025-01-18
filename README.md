@@ -37,7 +37,7 @@ A notes project built using
 
 * Make sure that Docker and docker-compose are installed in your system.
 
-* Clone the repository: git clone https://github.com/MoustafaShaaban/Django-Notes-Project.git
+* Clone the repository: git clone https://github.com/Moustafa-Shaaban/Django-Notes-Project.git
 
 * Change directory to backend directory ``` cd backend ```
 
